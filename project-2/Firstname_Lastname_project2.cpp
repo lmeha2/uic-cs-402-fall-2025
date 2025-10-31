@@ -74,6 +74,10 @@ using namespace std;
  *
  */
 
+unsigned int sample_int() {
+    
+}
+
 unsigned short test_hash(unsigned int input) {
     const unsigned int a = 3177205741;
     const unsigned int b = 2371597069;
